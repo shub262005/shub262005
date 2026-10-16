@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Shubham Jain</title>
+  <desc id="desc">Full-stack applications, local AI, and Android. A dark banner with teal geometric accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101d2a"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ee7c5"/>
+      <stop offset="1" stop-color="#57a9dc"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#26374a" stroke-width="0.7" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#background)"/>
+  <rect x="800" y="16" width="456" height="288" rx="18" fill="url(#grid)"/>
+  <rect x="56" y="62" width="38" height="5" rx="2.5" fill="#6ee7c5"/>
+  <text x="108" y="71" fill="#8da7ba" font-size="15" font-family="Segoe UI, Arial, sans-serif" letter-spacing="2.2">BUILDING USEFUL SOFTWARE</text>
+  <text x="56" y="153" fill="#f1f6fc" font-size="62" font-weight="700" font-family="Segoe UI, Arial, sans-serif" letter-spacing="-2">Shubham Jain</text>
+  <text x="59" y="201" fill="#b7c7d8" font-size="23" font-family="Segoe UI, Arial, sans-serif">Full-stack applications · Local AI · Android</text>
+  <rect x="58" y="238" width="171" height="31" rx="15.5" fill="#18373b"/>
+  <text x="76" y="259" fill="#8ee7cd" font-size="14" font-family="Segoe UI, Arial, sans-serif">@shub262005</text>
+  <g transform="translate(914 63)">
+    <rect x="0" y="0" width="200" height="192" rx="24" fill="#142333" stroke="#31475a"/>
+    <rect x="21" y="23" width="158" height="7" rx="3.5" fill="#2c4051"/>
+    <circle cx="29" cy="26.5" r="3" fill="#6ee7c5"/>
+    <path d="M67 69L43 94L67 119M132 69L156 94L132 119M113 59L87 130" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="31" y="156" width="74" height="5" rx="2.5" fill="#314b5c"/>
+    <rect x="114" y="156" width="35" height="5" rx="2.5" fill="#32695e"/>
+  </g>
+  <circle cx="1151" cy="77" r="8" fill="#6ee7c5" opacity="0.75"/>
+  <circle cx="888" cy="242" r="5" fill="#57a9dc" opacity="0.75"/>
+</svg>
